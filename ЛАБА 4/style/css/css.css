@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+  
+.container {
+    display: flex;
+    align-items: center;
+}
+  
+.img {
+    height: 230px;
+    width: 340px;
+    padding: 40px;
+}
+  
+.text {
+    
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(247, 243, 243);
+    padding: 20px;
+}
